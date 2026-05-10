@@ -1,1 +1,26 @@
 
+{
+  "mode": "All",
+  "policyRule": {
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "equals": "Microsoft.HybridCompute/machines"
+        },
+        {
+          "field": "Microsoft.HybridCompute/machines/osName",
+          "contains": "Windows"
+        }
+      ]
+    },
+    "then": {
+      "effect": "AuditIfNotExists",
+      "details": {
+        "type": "Microsoft.GuestConfiguration/guestConfigurationAssignments",
+        "name": "AzureBaseline_WindowsServer2022"
+      }
+    }
+  },
+  "parameters": {}
+}
