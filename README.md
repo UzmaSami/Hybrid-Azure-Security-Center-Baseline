@@ -44,5 +44,30 @@ hybrid environment consisting of:
 ### 5. Compliance Reporting
 - Automated HTML compliance reports
 - Critical/Medium/Low finding categorization
-- Remediation recommendations included
+- Remediation recommendations include
+
+## Results
+- Overall compliance score visible in screenshots
+  
+## Screenshots
+See/screenshots folder for:
+- Arc agent connected status
+- Defender for cloud dashboard
+- Log Analytics workspace
+- Policy Assignment
+- Compliance Report
+
+## Technologies Used
+- Microsoft Azure
+- Azure Arc
+- Microsoft Defender for Cloud
+- Log Analytics/ Azure Monitor
+- Azure Policy
+- PowerShell
+- Windows Server 2022
+
+## Author
+### Uzma Shabbir
+### Azure Security Engineer | AZ-104 | AZ-500
+### Available for Upwork for Azure Security
 
