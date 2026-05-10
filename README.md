@@ -11,7 +11,7 @@ hybrid environment consisting of:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](Docs/architecture-diagram1.png)
 
 ## 📋 Prerequisites
 - Azure Subscription (Free Trial supported)
