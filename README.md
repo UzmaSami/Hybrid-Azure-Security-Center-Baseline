@@ -69,5 +69,5 @@ See/screenshots folder for:
 ## Author
 ### Uzma Shabbir
 ### Azure Security Engineer | AZ-104 | AZ-500
-### Available for Upwork for Azure Security
+### Available on Upwork for Azure Security projects
 
