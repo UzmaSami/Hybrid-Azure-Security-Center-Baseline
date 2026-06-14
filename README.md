@@ -29,6 +29,11 @@ across both cloud and on-premises
 infrastructure.
 
 ---
+## Architecture
+![Architecture](docs/architecture-diagram.png)
+
+
+---
 
 ## The Problem This Solves
 
