@@ -34,6 +34,8 @@ infrastructure.
 
 
 ---
+![Architecture](Docs/architecture-diagram2.png)
+---
 
 ## The Problem This Solves
 
