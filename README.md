@@ -30,7 +30,7 @@ infrastructure.
 
 ---
 ## Architecture
-![Architecture](docs/architecture-diagram.png)
+![Architecture](Docs/architecture-diagram.png)
 
 
 ---
